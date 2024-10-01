@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/j9gh58ys#t0iJ8Nrunyx4YwI/KhjXCMvWZmsLoVZJzEpmnhrTNXg
-share_updated: 2024-09-29T04:08:24-04:00
----
 > [!info] HTTP Versions
 > 
 > > [!info] HTTP 1.0
