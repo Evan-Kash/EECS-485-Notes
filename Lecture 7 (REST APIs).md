@@ -111,7 +111,7 @@
 > 
 > > [!question]- Why does this matter?
 > > - The Internet is a messy place - lots of network failures, network handovers, other people making requests
-> > - When something is idempotent, we can retry the request
+> > - ^ When something is idempotent, we can retry the request
 > 
 > > [!info] HTTP Verbs and Idempotency
 > > 

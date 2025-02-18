@@ -1,7 +1,7 @@
 > [!info] Processes and Threads
 > 
 > > [!important] P4: MapReduce
-> > - MapReduce: divide computation among many computers
+> > - [[Lecture 11 (MapReduce)#^715559| MapReduce]] : divide computation among many computers
 > > - P4: simulate this on one computer
 > > 	- Multiple programs (processes): manager and workers
 > 

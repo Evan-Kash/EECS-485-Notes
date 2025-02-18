@@ -14,7 +14,7 @@
 > 	- ? What happens if one of them crashes?
 
 > [!example] Simple Example
-> - ^ Word count
+> - ^ Goal: find word count
 > - <u>**Input**</u>
 > 	- hello
 > 	- world
@@ -44,6 +44,8 @@
 > > - Group stage is possible to distribute too
 > > 
 > > ![[Pasted image 20241017021836.png]]
+
+^715559
 
 > [!info] Designing MapReduce Algorithms
 > 
